@@ -4,4 +4,4 @@ echo "This is runnning in a Build Step"
 echo "This is a param $Passed"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
-echo "script execution completed"
+echo "script execution completed test2"
