@@ -5,3 +5,4 @@ echo "This is a param $Passed"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
 echo "script execution completed test2"
+echo "script execution completed test3"
